@@ -6,7 +6,7 @@ The code was created as part of solving test problems on one of the sites for pr
 
 ### BUILD on Linux:
 
-You need at least Intel Core i5(1-st gen) Nehalem, or comment popcnt instruction in assembly source.
+You need at least Intel Pentium D, or comment popcnt instruction in assembly source.
 
 ```
 make [debug | clean]
